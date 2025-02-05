@@ -46,6 +46,9 @@ function sortearAmigoSecreto(listaDeAmigos) {
 🔹 Agregar una animación para el sorteo y mejorar la interfaz con CSS.
 
 📌 Instalación y uso
+Entra aqui:
+https://camilasoto98.github.io/ONE-ORACLE-ALURA/
+
 Descarga o clona el repositorio en tu computadora.
 Abre index.html en cualquier navegador moderno.
 Ingresa los nombres y realiza el sorteo.
